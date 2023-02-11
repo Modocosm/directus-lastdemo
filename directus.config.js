@@ -9,6 +9,8 @@ module.exports = function (env) {
 
         // Reference: https://docs.railway.app/deploy/exposing-your-app
         PORT: env.PORT,
+CORS_ENABLED:true,
+CORS_ORIGIN:true,
 
         // Reference: https://docs.railway.app/develop/variables#railway-provided-variables
         PUBLIC_URL: `http://0.0.0.0:${env.PORT}`,
