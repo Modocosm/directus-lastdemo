@@ -17,8 +17,19 @@ This example runs a [Directus](https://directus.io/) instance with minimal confi
 ## ✨ Features
 
 - Directus
-- PostgreSQL
+  - "directus-extension-action-button": "^1.0.1",
+  - "directus-extension-api-docs": "^1.5.1",
+  - "directus-extension-display-link": "^1.6.1",
+  - "directus-extension-editorjs": "^1.5.0",
+  - "directus-extension-svgmap-picker-interface": "^0.1.0",
+  - "directus-extension-tags-m2m-interface": "^0.8.0",
+  - "directus-extension-vgrid-interface": "^1.0.15",
+  - "directus-extension-wpslug-interface": "^1.1.0",
+  - "directus-extension-vgrid-interface": "^1.0.15",
+  
 - Javascript
+- PostgreSQL
+- "pg": "^8.9.0"
 
 ## 💁‍♀️ How to use
 

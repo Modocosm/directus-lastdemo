@@ -23,5 +23,6 @@ CORS_ORIGIN:true,
         DB_DATABASE: env.PGDATABASE,
         DB_USER: env.PGUSER,
         DB_PASSWORD: env.PGPASSWORD,
+        CONTENT_SECURITY_POLICY_DIRECTIVES__IMG_SRC: "'self' data: blob: https://cdn.directus.io https://images.unsplash.com https://images.pexels.com https://pixabay.com https://*.giphy.com"
     };
 };
