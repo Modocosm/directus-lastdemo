@@ -1,1 +1,1 @@
-web: npx directus bootstrap && npm install directus-extension-editorjs && npm install directus-extension-tags-m2m-interface && npm install directus-extension-action-button && npm install directus-extension-svgmap-picker-interface && npx directus start
+web: npx directus bootstrap && npx directus start
