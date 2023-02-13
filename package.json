@@ -9,7 +9,7 @@
     "node": ">=12.20.0"
   },
   "dependencies": {
-    "directus": "9.22",
+    "directus": "9.22.1",
     "directus-extension-action-button": "^1.0.1",
     "directus-extension-api-docs": "^1.5.1",
     "directus-extension-display-link": "^1.6.1",
