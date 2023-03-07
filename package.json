@@ -19,6 +19,6 @@
     "directus-extension-tags-m2m-interface": "^0.8.0",
     "directus-extension-vgrid-interface": "^1.0.15",
     "directus-extension-wpslug-interface": "^1.1.0",
-    "pg": "^8.9.0"
+    "pg": "^8.10.0"
   }
 }
